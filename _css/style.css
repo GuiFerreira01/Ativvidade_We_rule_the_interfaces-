@@ -1,0 +1,97 @@
+/* image 1 */
+
+
+body {
+    background-image: url(https://www.infoescola.com/wp-content/uploads/2020/06/paisagem-natural-315818252.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    display: flex;
+}
+h1 {
+    text-transform: uppercase;
+    position: absolute;
+    color: black;
+    font-size: 98px !important;
+    font-family: 'Besley', serif;
+}
+p {
+    padding: 10px;
+    margin-top: 9% !important;
+    font-family: 'Besley', serif;
+    
+    color: white;
+    font-size: 25px !important;
+}
+.preto {
+    bottom: 0;
+    color: black !important;
+    text-decoration: none !important;
+}
+.ing {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+/* image 1
+
+position: absolute;
+width: 1920px;
+height: 1081px;
+
+background: url(image.png);
+
+
+/* Rectangle 2 */
+/* 
+position: absolute;
+width: 1920px;
+height: 95px;
+
+background: #144A90; */
+
+
+/* Galeria de Fotos */
+
+/* position: absolute;
+width: 1802.41px;
+height: 237.76px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 182px;
+line-height: 105px;
+or 58%
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+transform: rotate(-0.24deg);
+
+
+Frases, ídolos, ,Profissional
+
+position: absolute;
+width: 1609px;
+height: 167px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 105px;
+or 211%
+display: flex;
+align-items: center;
+
+color: #FFFFFF; */
+

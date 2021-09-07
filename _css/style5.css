@@ -1,0 +1,39 @@
+
+
+
+/* Rectangle 3 */
+
+
+body {
+    background-image: url(https://t.ctcdn.com.br/vF1IBIIPfJzPyHPd9r7wis0ZDfc=/1400x788/smart/i252888.jpeg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 7% !important;
+    
+}
+.ing {
+    width: 29%;
+    margin-left: 7%;
+    margin-top: -1%;
+}   
+.billy {
+    width: 31%;
+    margin-top: 3%;
+    margin-left: 16%;
+}
+.up {
+    width: 25%;
+    margin-left: 14%;
+    margin-top: -4%;
+}
+.pg {
+    width: 30%;
+    margin-left: 20%;
+    margin-top: 7%;
+}

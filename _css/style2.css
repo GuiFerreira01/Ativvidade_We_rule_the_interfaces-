@@ -1,0 +1,55 @@
+
+body {
+    background-image: url(_img/bg2.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    display: flex;
+}
+h1 {
+    text-transform: uppercase;
+    position: absolute;
+    color: black;
+    font-size: 98px !important;
+    font-family: 'Besley', serif;
+}
+p {
+    padding: 5px;
+    
+    font-family: 'Besley', serif;
+    
+    color: white;
+    font-size: 25px !important;
+}
+.preto {
+    bottom: 0;
+    color: black !important;
+    text-decoration: none !important;
+}
+.pad {
+    margin-top: 2% !important;
+}
+
+
+.ing {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.doze {
+    border-radius: 0 !important;
+}
+
+.frase {
+    background-color: #bd94db;
+    border-radius: 22%;
+    padding: 15px;
+    color: black;
+}
+
+.linha {
+    margin-top: 4% !important;
+}
